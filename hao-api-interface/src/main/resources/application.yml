@@ -1,0 +1,14 @@
+server:
+  port: 8123
+  servlet:
+    context-path: /api
+haoapi:
+  client:
+    access-key: ca643371f2125f37d2c417257576cba4
+    secret-key: 3f490900a5f096d183d3dd25e3b1852e
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/haoapi
+    username: root
+    password: 202114060116
