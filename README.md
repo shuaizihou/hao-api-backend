@@ -1,8 +1,6 @@
 # Hao API
 
 >
-> 管理员账户密码：wuhao / 123456789
->
 > 项目后端开源地址：[https://github.com/shuaizihou/hao-api-backend](https://github.com/shuaizihou/hao-api-backend)
 >
 > 项目前端开源地址：[https://github.com/shuaizihou/hao-api-frontend](https://github.com/shuaizihou/hao-api-frontend)
